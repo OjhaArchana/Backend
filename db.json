@@ -1,0 +1,128 @@
+{
+  "posts": [
+    {
+      "fname": "Archana",
+      "lname": "Ojha",
+      "position": "Frontend Developer",
+      "about": "Working as a Frontend Developer in RapidKen.AI",
+      "djoin": "2023-02-23",
+      "id": 1
+    },
+    {
+      "fname": "Aditya",
+      "lname": "Singhal",
+      "position": "Developer",
+      "about": "Works with Android team",
+      "djoin": "2023-02-23",
+      "id": 2
+    },
+    {
+      "fname": "Simran",
+      "lname": "Singh",
+      "position": "Developer",
+      "about": "Works here",
+      "djoin": "2023-02-03",
+      "id": 3
+    },
+    {
+      "fname": "Shashi",
+      "lname": "Yadav",
+      "position": "Data Scientist",
+      "about": "Working Since 2020",
+      "djoin": "2020-10-09",
+      "id": 4
+    },
+    {
+      "fname": "Supriya",
+      "lname": "Dhakad",
+      "position": "Developer",
+      "about": "Working here as an intern",
+      "djoin": "2023-01-06",
+      "id": 5
+    },
+    {
+      "fname": "Riya",
+      "lname": "Sen",
+      "position": "Developer",
+      "about": "Works here",
+      "djoin": "2023-01-13",
+      "id": 7
+    },
+    {
+      "fname": "Priya",
+      "lname": "Prajapati",
+      "position": "Data Analyst",
+      "about": "Works here",
+      "djoin": "2022-12-09",
+      "id": 8
+    },
+    {
+      "fname": "Tirupati",
+      "lname": "Shayaml",
+      "position": "Developer",
+      "about": "Works here in RapidKen.AI",
+      "djoin": "2023-02-02",
+      "id": 9
+    },
+    {
+      "fname": "Animesh",
+      "lname": "Malhotra",
+      "position": "CEO",
+      "about": "Started this Company 2019",
+      "djoin": "2019-06-12",
+      "id": 10
+    },
+    {
+      "fname": "Pritam",
+      "lname": "Pyarelal",
+      "position": "CTO",
+      "about": "Working since 2021",
+      "djoin": "2021-02-09",
+      "id": 11
+    },
+    {
+      "fname": "Sumit",
+      "lname": "Chellani",
+      "position": "DevOps Engineer",
+      "about": "Works here",
+      "djoin": "2022-08-12",
+      "id": 12
+    },
+    {
+      "fname": "Sushant",
+      "lname": "Singh",
+      "position": "Android Developer",
+      "about": "Works Here",
+      "djoin": "2023-02-03",
+      "id": 13
+    },
+    {
+      "fname": "Aarti",
+      "lname": "Sharma",
+      "position": "Product Developer",
+      "about": "Works in the Product Team",
+      "djoin": "2023-02-10",
+      "id": 14
+    },
+    {
+      "fname": "Archi",
+      "lname": "Maurya",
+      "position": "Web Developer",
+      "about": "Works with DashboardTeam",
+      "djoin": "2023-02-04",
+      "id": 15
+    },
+    {
+      "fname": "Ashish",
+      "lname": "Shirsha",
+      "position": "DevOps Engineer",
+      "about": "Works Here Since 2020",
+      "djoin": "2023-02-10",
+      "id": 16
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
